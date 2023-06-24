@@ -4,7 +4,7 @@ function server(file) {
 let path = require('path')
 let fs = require('fs')
 console.log("Bot Starting...")
-var isRunning = false
+var isRunning = true
 
 
 /**
